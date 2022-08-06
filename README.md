@@ -3,7 +3,7 @@
 **This is a Minecraft datapack, which aims to make your worlds feel more interesting and alive by building upon the game's exploration aspect, as well as extending the progression. You can expect new entirely unique structures, mobs, loot and equipment.**
 
 **Currently the datapack includes:**
-- 3 new structures, including one very large dungeon
+- 4 new structures, including one very large dungeon
 - 2 unique mobs with custom AI
 - 2 new weapons
 - a new enchanting block with a custom GUI
